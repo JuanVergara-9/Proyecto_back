@@ -1,1 +1,2 @@
-# Proyecto_back
+# estructura-flask
+Estructura básica en framework Flask
